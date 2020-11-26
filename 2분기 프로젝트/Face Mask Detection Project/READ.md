@@ -10,3 +10,21 @@
 5) Transfer Learning
 6) 사진과 동영상 모두에 적용 가능한 모델 만들기
 7) 이미지 관련 딥러닝 프로젝트의 대략적인 흐름
+
+</br>
+<파일 소개></br>
+1) mask_classifier.py</br>
+* mask_classifier model을 만들어주는 코드입니다  
+* Dataset 정보는 코드 내에 주석을 참고해주세요  
+* Dataset 경로만 잘 설정해 주시면 model 파일을 생성할 수 있습니다  
+(models 폴더 내 사전 제작된 model 파일이 있습니다)  
+
+(2) models 폴더</br>
+* face detector: opencv face detector(SSD와 Resnet-10 기반)</br>
+* model: mask classifier model</br>
+
+(3) video.py</br>
+* face detector, mask classifier 모델을 불러와서 </br>
+* 비디오 혹은 실시간 영상에 대해 mask detection을 수행합니다.
+
+* tensorflow 2.3.0
