@@ -12,7 +12,7 @@
 7) 이미지 관련 딥러닝 프로젝트의 대략적인 흐름
 </br>
 
-<파일 소개>
+<파일 소개></br>
 (1) mask_classifier.py
 * tensorflow 2.3.0
 * mask_classifier model을 만들어주는 코드입니다  
@@ -22,7 +22,7 @@
 
 (2) models 폴더
 * face detector: opencv face detector(SSD와 Resnet-10 기반)
-* model: mask classifier model
+* model: mask classifier model(MobileNetV2 기반)
 
 (3) video.py</br>
 * tensorflow 2.3.0
