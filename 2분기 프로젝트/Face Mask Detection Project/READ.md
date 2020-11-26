@@ -10,10 +10,10 @@
 5) Transfer Learning
 6) 사진과 동영상 모두에 적용 가능한 모델 만들기
 7) 이미지 관련 딥러닝 프로젝트의 대략적인 흐름
-
+</br>
 
 <파일 소개>
-1) mask_classifier.py
+(1) mask_classifier.py
 * tensorflow 2.3.0
 * mask_classifier model을 만들어주는 코드입니다  
 * Dataset 정보는 코드 내에 주석을 참고해주세요  
