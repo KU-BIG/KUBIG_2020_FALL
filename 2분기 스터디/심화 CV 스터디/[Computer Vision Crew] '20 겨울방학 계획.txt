@@ -1,0 +1,13 @@
+1. Deep Learning with PyTorch 교재 진도 완료
+- ch.6-15 : 10 chapters // 1월 내로
+- ch.15는 모바일로 적용하는 내용이라 스킵 가능할 듯
+
+2. Face Expression Recognition with Opencv and CNN 
+- 실시간 표정 인식 모델 수립 프로젝트
+- KU-BIG ,Mask Detection 프로젝트 참고
+- CNN 모델을 활용한 이미지 분류는 진행했음. 이를 Opencv 와 연결하는 것이 관건.
+
+3. 개인 공부
+- 각자 부족한 부분 혹은 관심 있는 영역 찾아서 공부해오기
+ex) object detection 논문 읽기, Opencv 관련 서적 공부 등
+
