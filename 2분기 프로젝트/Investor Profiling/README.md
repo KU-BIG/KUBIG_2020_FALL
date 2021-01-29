@@ -1,4 +1,3 @@
-NH 투자증권 빅데이터 경진대회
 <h2>NH 투자증권 빅데이터 경진대회</h2> <br>
 <p>
 안녕하세요, <strong>Investor Profiling 팀</strong>입니다. <br>
